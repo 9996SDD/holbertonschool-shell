@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Define the parent directory
+parent_dir="../"
+
+# Copy HTML files
+cp -u *.html "$parent_dir"
